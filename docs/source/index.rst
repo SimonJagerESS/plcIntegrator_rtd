@@ -18,4 +18,3 @@ Contents
    PV list
    api
 
-Lumache hosts its documentation on Read the Docs.
