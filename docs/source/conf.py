@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'plcIntegerator'
+copyright = '2025, European Spallation Source, ICS Automation Section'
+author = 'ICS Automation section'
 
 release = '0.1'
 version = '0.1.0'
