@@ -1,13 +1,13 @@
 Usage
 =====
 
-Layout
-------
-* :doc:`layout`
-
 Installation
 ------------
 * :doc:`installation`
+
+Layout
+------
+* :doc:`layout`
 
 Project tab
 -----------
