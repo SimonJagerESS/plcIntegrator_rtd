@@ -7,6 +7,7 @@ Installation
 ------------
 
 * Installation instructions
+:ref:`installation`this should link to the installer, right?
 
 
 .. _project tab:
