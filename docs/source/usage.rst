@@ -1,29 +1,30 @@
 Usage
 =====
 
+Layout
+------
+* :doc:`layout`
+
 Installation
 ------------
-
-It is possible that using :doc:`installation` links to the installer?
-
+* :doc:`installation`
 
 Project tab
 -----------
-
 * :doc:`project_tab`
 
 Device tab
 ----------
-
-* Sub-categories for Devices here
+* :doc:`device_tab`
 
 Alarm tab
 ---------
-
-* Sub-categories for Alarms here
+* :doc:`alarm_tab`
 
 PV List tab
 -----------
+* :doc:`pv_list_tab`
 
-* Sub-categories for PV Lists here
-
+Git functions
+-------------
+* :doc:`git_functions`
