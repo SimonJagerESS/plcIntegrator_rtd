@@ -8,6 +8,15 @@ Installation
 
 * Installation instructions
 
-Creating IOCs
--------------
+Project tab
+-----------
+
+Device tab
+----------
+
+Alarm tab
+---------
+
+PV List tab
+-----------
 
