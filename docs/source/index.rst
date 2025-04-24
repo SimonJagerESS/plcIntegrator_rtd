@@ -17,6 +17,7 @@ Contents
 
    
    usage
+   trying to add a new little thing here too
    .. toctree::
       trying to add a new little thing to this
    api
