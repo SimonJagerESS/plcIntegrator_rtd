@@ -7,7 +7,7 @@ Installation
 ------------
 
 * Installation instructions
-:ref:`installation`this should link to the installer, right?
+It is possible that using :doc:`usage` followed by :ref:`installation` and this should link to the installer, right?
 
 
 .. _project tab:
