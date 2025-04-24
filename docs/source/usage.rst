@@ -10,6 +10,7 @@ Installation
 
 
 .. _project tab:
+
 Project tab
 -----------
 
