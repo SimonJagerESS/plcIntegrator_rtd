@@ -7,7 +7,7 @@ copyright = '2025, European Spallation Source, ICS Automation Section'
 author = 'ICS Automation section'
 
 release = '0.1'
-version = '0.2.0'
+version = '2.0.0'
 
 # -- General configuration
 
